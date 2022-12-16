@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Deck MS/Deck MS.iml" filepath="$PROJECT_DIR$/Deck MS/Deck MS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PlanningPoker.iml" filepath="$PROJECT_DIR$/.idea/PlanningPoker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Usuario MS/Usuario MS.iml" filepath="$PROJECT_DIR$/Usuario MS/Usuario MS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Carta MS/cartas.iml" filepath="$PROJECT_DIR$/Carta MS/cartas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Config Server/config.iml" filepath="$PROJECT_DIR$/Config Server/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka Server/eurekaserver.iml" filepath="$PROJECT_DIR$/Eureka Server/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/API Gateway/gateway.iml" filepath="$PROJECT_DIR$/API Gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Organizacao MS/organizacoes.iml" filepath="$PROJECT_DIR$/Organizacao MS/organizacoes.iml" />
+    </modules>
+  </component>
+</project>
