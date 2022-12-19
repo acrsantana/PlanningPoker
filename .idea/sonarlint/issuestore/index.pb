@@ -49,18 +49,12 @@ C
 ^Usuario MS/src/test/java/br/com/acrtech/planningpoker/usuarioms/UsuarioMsApplicationTests.java,1\8\181dccced8bf5b84db2cca35b0a7a5f26935086c
 ‰
 YAPI Gateway/src/main/java/br/com/acrtech/planningpoker/gateway/ApiGatewayApplication.java,9\5\954f82e41fee9caf095e5a786fd027a81f1de5a8
-B
-Usuario MS/pom.xml,0\1\01ee5f533e18d4ef1047b2f0e3d5d9c4bf384d18
-‰
-YUsuario MS/src/main/java/br/com/acrtech/planningpoker/usuarioms/UsuarioMsApplication.java,f\c\fc5c57d565e492b73e237f2fead44871cf3152f3
 œ
 lUsuario MS/src/main/java/br/com/acrtech/planningpoker/usuarioms/exception/UsuarioNaoEncontradoException.java,f\e\fe224108ebb98142e69b9132307670fa8eee3976
 ‘
 aUsuario MS/src/main/java/br/com/acrtech/planningpoker/usuarioms/repository/UsuarioRepository.java,b\9\b947b089355d09e2783669e6a6913c75f757df1c
 ‹
 [Usuario MS/src/main/java/br/com/acrtech/planningpoker/usuarioms/service/UsuarioService.java,5\3\53048dc6aa58c8e1345a494c63d56ab84b019678
-‘
-aUsuario MS/src/main/java/br/com/acrtech/planningpoker/usuarioms/controller/UsuarioController.java,6\d\6d9b7e6860088f455248a2e73f681d29b5088cf2
 =
 Carta MS/mvnw,1\b\1bf45df7c1483ea90fbaaeb2d3782998162b350f
 ^
