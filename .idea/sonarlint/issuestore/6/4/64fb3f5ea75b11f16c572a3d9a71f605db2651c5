@@ -1,0 +1,29 @@
+
+w
+java:S1192'"aDefine a constant instead of duplicating this literal "Nenhuma organizaÃ§Ã£o encontrada" 3 times.(â ÿõ
+Y
+java:S5612v"DReduce this lambda expression number of lines from 11 to at most 10.(Ö…¼W
+I
+java:S2208".Explicitly import the specific classes needed.(„àÖ¤ûÿÿÿÿ
+\
+java:S5128W"FAdd missing "@Valid" on "carta" to validate it with "Bean Validation".(·‰¼‰
+]
+java:S5128h"GAdd missing "@Valid" on "cartas" to validate it with "Bean Validation".(­¿‘ú
+<
+java:S2211*"!Specify a type for: 'organizacao'(—«™·úÿÿÿÿ
+J
+java:S2221D"4Catch a list of specific exception subtypes instead.(”ý¾
+J
+java:S2221P"4Catch a list of specific exception subtypes instead.(”ý¾
+]
+java:S3242h"GUse 'java.util.Collection' here; it is a more general type than 'List'.(­¿‘ú
+0
+java:S2211v"Specify a type for: 'carta'(Ö…¼W
+<
+java:S2211w"!Specify a type for: 'organizacao'(ûê©†þÿÿÿÿ
+C
+java:S1602„",Remove useless curly braces around statement(¡¼ƒÓ
+2
+java:S2211„"Specify a type for: 'carta'(¡¼ƒÓ
+=
+java:S2211…"!Specify a type for: 'organizacao'(ûê©†þÿÿÿÿ

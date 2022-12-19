@@ -69,8 +69,6 @@ WCarta MS/src/test/java/br/com/acrtech/planningpoker/cartas/CartaMsApplicationTe
 eCarta MS/src/main/java/br/com/acrtech/planningpoker/cartas/exception/CartaNaoEncontradaException.java,4\c\4c135d5ca226be9d5b063fe90d5aec0d803ff4b6
 Ç
 RUsuario MS/src/main/java/br/com/acrtech/planningpoker/usuarioms/model/Usuario.java,5\9\5969f91b30f5e6c906e3dd548510a3884ca1489e
-É
-SUsuario MS/src/main/java/br/com/acrtech/planningpoker/usuarioms/dto/UsuarioDto.java,3\a\3a22555afdfb2475f593bb9bc3df77db0cba561f
 ?
 Deck MS/HELP.md,4\2\427165e1c6505dca92168d7283118db5bc5019c3
 I
@@ -87,12 +85,6 @@ zOrganizacao MS/src/main/java/br/com/acrtech/planningpoker/organizacoes/exceptio
 vOrganizacao MS/src/main/java/br/com/acrtech/planningpoker/organizacoes/exception/ErroAoSalvarOrganizacaoException.java,a\3\a34e5036db5659da4b17fed999edf0b917c0306d
 Å
 QCarta MS/src/main/java/br/com/acrtech/planningpoker/cartas/model/Organizacao.java,9\d\9dc115420c02745ac52739ed3ec58ea9be519d3c
-ç
-]Organizacao MS/src/main/java/br/com/acrtech/planningpoker/organizacoes/model/Organizacao.java,6\0\6091791a29ff160a6f87dcb2928637ed724fe764
-ú
-lOrganizacao MS/src/main/java/br/com/acrtech/planningpoker/organizacoes/controller/OrganizacaoController.java,b\9\b90c28f978fe47ec4f241f2dbdbef9dceac29836
-î
-dOrganizacao MS/src/main/java/br/com/acrtech/planningpoker/organizacoes/OrganizacaoMsApplication.java,5\c\5c6adc225b90146b48a722c39a4bf8b37d7e8d60
 ô
 iOrganizacao MS/src/test/java/br/com/acrtech/planningpoker/organizacoes/OrganizacaoMsApplicationTests.java,a\d\ad98e7c3a7b3bfdd0351359df522c41fb0791a67
 õ
@@ -101,8 +93,6 @@ kCarta MS/src/main/java/br/com/acrtech/planningpoker/cartas/exception/Organizaca
 wOrganizacao MS/src/main/java/br/com/acrtech/planningpoker/organizacoes/exception/OrganizacaoNaoEncontradaException.java,4\4\44631f009ef58052dee797e65b1a4fdeeae9babf
 ú
 lOrganizacao MS/src/main/java/br/com/acrtech/planningpoker/organizacoes/repository/OrganizacaoRepository.java,8\e\8efd3bcde4843e9dd831df1fb353f839676afa64
-ñ
-fOrganizacao MS/src/main/java/br/com/acrtech/planningpoker/organizacoes/service/OrganizacaoService.java,0\5\059173ba3644896e64a7bcf023ea4baa38ec3269
 ]
 -Deck MS/.mvn/wrapper/maven-wrapper.properties,a\b\ab12bcf64cbffa278f62a0b3600f7cf793e0244a
 <

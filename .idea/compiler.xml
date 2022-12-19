@@ -20,7 +20,7 @@
       <module name="arquivoms" target="18" />
       <module name="cartas" target="18" />
       <module name="config" target="18" />
-      <module name="Deck MS" target="17" />
+      <module name="Deck MS" target="18" />
       <module name="eurekaserver" target="18" />
       <module name="gateway" target="18" />
       <module name="organizacoes" target="18" />
