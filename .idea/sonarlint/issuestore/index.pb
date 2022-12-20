@@ -29,8 +29,6 @@ H
 Eureka Server/.gitignore,3\a\3a5ce284412d12277b505942be7915f20f89fa40
 é
 ^API Gateway/src/test/java/br/com/acrtech/planningpoker/gateway/ApiGatewayApplicationTests.java,6\0\608d047667a2d3ed9b614a281457395434e0754b
-å
-\Config Server/src/main/java/br/com/acrtech/planningpoker/config/ConfigServerApplication.java,b\1\b1b57255b3e0e0f8efac620fbbb3681801ab6941
 ë
 aConfig Server/src/test/java/br/com/acrtech/planningpoker/config/ConfigServerApplicationTests.java,d\3\d3f080848826e5ebbb61dd1604f6d33e396fc765
 í
@@ -131,3 +129,111 @@ TCarta MS/src/main/java/br/com/acrtech/planningpoker/cartas/service/CartaService
 	readme.md,2\7\275d783e298228506068436512433d343feb52aa
 ì
 cDeck MS/src/main/java/br/com/acrteck/planningpoker/decks/exception/FalhaAoGravarDecksException.java,3\8\38ffcd014cfb307064489600ae0d467f0b64c821
+E
+Eureka Server/pom.xml,b\8\b85d826097ddcd0a32dfca3074a169eb6a75b3f1
+C
+API Gateway/pom.xml,b\4\b468b83397c8d6154fa8f46973e3f27e95abfebd
+|
+LCarta MS/src/main/java/br/com/acrtech/planningpoker/cartas/dto/CartaDto.java,9\c\9c3395243174264a1237a8c232e5808abfa4a679
+Ç
+RCarta MS/src/main/java/br/com/acrtech/planningpoker/cartas/CartaMsApplication.java,5\1\51594e459dd9e3da68d8adb03f2065d0eb41a538
+Ü
+VCarta MS/src/main/java/br/com/acrtech/planningpoker/cartas/http/OrganizacaoClient.java,6\7\67ada1b949d2e01acfd38e072e396b489d55aed9
+ä
+ZCarta MS/src/main/java/br/com/acrtech/planningpoker/cartas/controller/CartaController.java,5\d\5d3922f1e1ecda9d2f4d44f0c35dd5cd2ce410ea
+z
+JDeck MS/src/main/java/br/com/acrteck/planningpoker/decks/dto/CartaDto.java,e\8\e86c7b6bd61826a807a0122de0279e59c672722d
+
+ODeck MS/src/main/java/br/com/acrteck/planningpoker/decks/http/CartasClient.java,f\c\fcd83613d332845d5dbee9443852c2e3ae79edce
+x
+HDeck MS/src/main/java/br/com/acrteck/planningpoker/decks/model/Deck.java,3\a\3ab79787c799449c8fa3cf6fb3e685f2d2673da1
+á
+WDeck MS/src/main/java/br/com/acrteck/planningpoker/decks/controller/DeckController.java,3\7\3745c4229dcc15f30bf018a93560b52c382ba1be
+y
+IDeck MS/src/main/java/br/com/acrteck/planningpoker/decks/dto/DeckDto.java,a\0\a0ecb6c30e1c3d1e86c7191c88a8ef4483d8af4b
+Å
+QDeck MS/src/main/java/br/com/acrteck/planningpoker/decks/service/DeckService.java,1\c\1cbbab2b72219ab5546e3183cc2af77684351db3
+
+ODeck MS/src/main/java/br/com/acrteck/planningpoker/decks/DeckMsApplication.java,4\c\4cdc78d1e492b6541b2c1c16839eaad841ab876c
+ë
+aUsuario MS/src/main/java/br/com/acrtech/planningpoker/usuarioms/controller/UsuarioController.java,6\d\6d9b7e6860088f455248a2e73f681d29b5088cf2
+É
+SUsuario MS/src/main/java/br/com/acrtech/planningpoker/usuarioms/dto/UsuarioDto.java,3\a\3a22555afdfb2475f593bb9bc3df77db0cba561f
+w
+G.idea/sonarlint/issuestore/c/c/cc34049bf62e9d0a73605a1bb6e48d128490e925,5\2\52531c6691a1522e281ded04d445426bac21fd0a
+w
+G.idea/sonarlint/issuestore/b/c/bcd5523175dd581badade45d68d401ef4d1eb6b4,0\1\01c5b5bff34299a8f83407db1cfa79569cd233e4
+w
+G.idea/sonarlint/issuestore/5/b/5b73555b09963d5ff98bc7661c4c585f69b1c7b5,4\3\4396bdc320883013c27279fa1b61a13f4dd8cc0f
+w
+G.idea/sonarlint/issuestore/6/a/6a3bd633880e53cce03846dcd98e5da5d7f0a19d,4\b\4bffa4d4ef1d77ccb69ef941043d9fd187f4cc15
+w
+G.idea/sonarlint/issuestore/a/b/ab12bcf64cbffa278f62a0b3600f7cf793e0244a,e\5\e59e60abb3f8d46335a16969e565eb0e0e42399f
+w
+G.idea/sonarlint/issuestore/9/b/9bf55e4e277a28a43a5713f59a166dcf4c6fb064,7\1\71f37623003156be1d4e83a699162bd6e2e4e57a
+w
+G.idea/sonarlint/issuestore/a/3/a34e5036db5659da4b17fed999edf0b917c0306d,b\c\bcf7b87fa0a79fc2eb2494fc44d6907136bb4fc7
+w
+G.idea/sonarlint/issuestore/4/e/4e00a61a5829c3fefdec040444d47a06903e6e35,4\4\444e62c88b9c12faa2c87b08a390303f63659f9f
+w
+G.idea/sonarlint/issuestore/4/4/44631f009ef58052dee797e65b1a4fdeeae9babf,e\e\ee08c3fa897024a4b037c2791c7207783dd2c0a6
+w
+G.idea/sonarlint/issuestore/9/d/9dc115420c02745ac52739ed3ec58ea9be519d3c,5\b\5b8e9ae514440bd9c51934b95f936f40e4884898
+w
+G.idea/sonarlint/issuestore/c/8/c88642fbd855d216ec5a79a28020f951776c36d3,c\5\c519714ebaf8cc2b4f65af26d7fc6b1d1979c822
+w
+G.idea/sonarlint/issuestore/5/6/5674a77db40287e465fa2d1ccbe54c6c5c93f6fc,f\c\fcbacda69569a00b58cc2bf0a4ac22c944f947cd
+w
+G.idea/sonarlint/issuestore/6/0/609767abce9fff086948dc5b621c2b44e787486e,2\2\221ddc0adcbb8dd21be7af4f3849dd217e0dc6e4
+w
+G.idea/sonarlint/issuestore/8/e/8efd3bcde4843e9dd831df1fb353f839676afa64,0\f\0f07abed9f660ceb840925166c44fcf27e6b3b42
+w
+G.idea/sonarlint/issuestore/4/3/43bcf292aabc24c6b27d9b910aa40f71fa104b8c,9\b\9b7a23f0f3870c817625b6d9533ec6f62a20a16e
+w
+G.idea/sonarlint/issuestore/f/5/f5b36dc43fc69e6438836ecaebdb473ad2854ec1,8\7\87b5a00dc213abc33ef62ddfc485545aad13734d
+w
+G.idea/sonarlint/issuestore/2/7/275d783e298228506068436512433d343feb52aa,7\a\7a815f6d0a2d3a2d3d14916e1861118541e8c8d8
+w
+G.idea/sonarlint/issuestore/3/8/38ffcd014cfb307064489600ae0d467f0b64c821,4\8\4827522f04c304b028b5a55440feda14b67d24e5
+w
+G.idea/sonarlint/issuestore/3/1/3167dc2b50269603b86d98baaf490dea24b46906,f\8\f860adc9118e75bc85d08b469d38a4541d1e4e19
+w
+G.idea/sonarlint/issuestore/c/3/c3d436debc3877eebe795722b208e38a53e28d24,8\1\81ffdd865c4bcd9e85a642a330b926ec58244064
+r
+B.idea/libraries/Maven__io_github_classgraph_classgraph_4_8_138.xml,e\6\e6ca98b9cc2504872bcea12d7ae2529e5ba36ebd
+w
+G.idea/libraries/Maven__org_springdoc_springdoc_openapi_common_1_6_4.xml,e\6\e603b945a77fa2b4fa79902f24d3bdb25428c1f6
+s
+C.idea/libraries/Maven__io_swagger_core_v3_swagger_models_2_1_12.xml,f\b\fbaa2ecdd647fae63c767af68b2deb0bf3e7697a
+w
+G.idea/sonarlint/issuestore/c/f/cf36cb6e5ad13ab9275953fc0140e7302a25b2b7,1\4\14e12d6f0231bf67cd4ebabb6badb64af90b8b53
+q
+A.idea/libraries/Maven__io_swagger_core_v3_swagger_core_2_1_12.xml,f\0\f07bbfb9569369671c0d90f503c0d402cde62a82
+w
+G.idea/sonarlint/issuestore/e/4/e4a8919ff139f1e5f80403ee3acee2a9d88d7cf3,3\0\30bffbc1c7c90299999fb84aea3f05c3fbe5d2fd
+x
+H.idea/libraries/Maven__io_swagger_core_v3_swagger_annotations_2_1_12.xml,a\4\a4e92c12d483bf6f78d50fdd494d139951d96e1e
+w
+G.idea/sonarlint/issuestore/5/4/544f1742bc358b0c6715e60391b3e75350654fcc,a\f\af8b5657a14acfca678991a67da38dd86617b523
+g
+7.idea/libraries/Maven__org_webjars_swagger_ui_4_1_3.xml,a\a\aaa44fd343bbcd8cd0549337282c1a614407eedc
+w
+G.idea/sonarlint/issuestore/e/f/eff617e700edea1850a83ccb5d078d98da4e6e4a,c\c\ccfcf9397c5369b11650491c93fc8dec3237417f
+|
+L.idea/libraries/Maven__org_springdoc_springdoc_openapi_webmvc_core_1_6_4.xml,3\3\33ced12c19a65e3785525aa1f0bd7e98303c5026
+s
+C.idea/libraries/Maven__org_springdoc_springdoc_openapi_ui_1_6_4.xml,e\9\e9f45235d282197b1368b38b7b4f37e16b057542
+w
+G.idea/sonarlint/issuestore/d/5/d57deb624e863ff09f30e0b5e84d7f8f150297dd,4\e\4ef7fedf697466ffb82ee7932931604331f86a77
+w
+G.idea/sonarlint/issuestore/5/2/52f30249ba04e442bd20ac3a64a86f04e01c50ba,f\d\fda2e128fb5311016263a9c08c34432c677651d6
+ç
+]Organizacao MS/src/main/java/br/com/acrtech/planningpoker/organizacoes/model/Organizacao.java,6\0\6091791a29ff160a6f87dcb2928637ed724fe764
+ú
+lOrganizacao MS/src/main/java/br/com/acrtech/planningpoker/organizacoes/controller/OrganizacaoController.java,b\9\b90c28f978fe47ec4f241f2dbdbef9dceac29836
+é
+^Organizacao MS/src/main/java/br/com/acrtech/planningpoker/organizacoes/dto/OrganizacaoDto.java,4\d\4dbd4471349174df4cd28b27e971fbc018e8aff8
+î
+dOrganizacao MS/src/main/java/br/com/acrtech/planningpoker/organizacoes/OrganizacaoMsApplication.java,5\c\5c6adc225b90146b48a722c39a4bf8b37d7e8d60
+ñ
+fOrganizacao MS/src/main/java/br/com/acrtech/planningpoker/organizacoes/service/OrganizacaoService.java,0\5\059173ba3644896e64a7bcf023ea4baa38ec3269

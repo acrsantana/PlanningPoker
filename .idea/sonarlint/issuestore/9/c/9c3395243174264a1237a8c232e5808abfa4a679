@@ -1,0 +1,5 @@
+
+a
+java:S2057"?Add a "static final long serialVersionUID" field to this class.(¥Å–­ùÿÿÿÿ8“·¼‹Ñ0
+“
+java:S3366"xMake sure the use of "this" doesn't expose partially-constructed instances of this class in multi-threaded environments.(¶Þ¦Šþÿÿÿÿ

@@ -1,0 +1,3 @@
+
+Ø
+java:S4605"µ'CartaController' is not reachable by @ComponentScan or @SpringBootApplication. Either move it to a package configured in @ComponentScan or update your @ComponentScan configuration.(ñ­âûýÿÿÿÿ8ˆêÙæÑ0

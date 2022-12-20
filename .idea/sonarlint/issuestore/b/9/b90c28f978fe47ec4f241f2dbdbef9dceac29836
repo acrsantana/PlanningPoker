@@ -1,0 +1,9 @@
+
+`	java:S1128"FDefine and throw a dedicated exception instead of using a generic one.(Ê“Åıÿÿÿÿ
+`	java:S112F"FDefine and throw a dedicated exception instead of using a generic one.(Ê“Åıÿÿÿÿ
+J
+java:S22217"4Catch a list of specific exception subtypes instead.(”ı¾
+V
+java:S4684>"@Replace this persistent entity with a simple POJO or DTO object.(ÙŒÊ–
+J
+java:S2221E"4Catch a list of specific exception subtypes instead.(”ı¾
