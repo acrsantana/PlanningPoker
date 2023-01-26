@@ -7,13 +7,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="usuarioms" />
         <module name="eurekaserver" />
         <module name="Usuario MS" />
+        <module name="PlanningPokerFrontEnd" />
         <module name="organizacoes" />
         <module name="Deck MS" />
+        <module name="decks" />
         <module name="config" />
-        <module name="gateway" />
         <module name="cartas" />
+        <module name="gateway" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,24 +24,30 @@
       <module name="cartas" target="18" />
       <module name="config" target="18" />
       <module name="Deck MS" target="18" />
+      <module name="decks" target="18" />
       <module name="eurekaserver" target="18" />
       <module name="gateway" target="18" />
       <module name="organizacoes" target="18" />
+      <module name="PlanningPokerFrontEnd" target="19" />
       <module name="Usuario MS" target="17" />
+      <module name="usuarioms" target="17" />
       <module name="Usuarios MS" target="18" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Deck MS" options="-parameters" />
+      <module name="PlanningPokerFrontEnd" options="-parameters" />
       <module name="Usuario MS" options="-parameters" />
       <module name="Usuarios MS" options="-parameters" />
       <module name="arquivoms" options="-parameters" />
       <module name="cartas" options="-parameters" />
       <module name="config" options="-parameters" />
+      <module name="decks" options="-parameters" />
       <module name="eurekaserver" options="-parameters" />
       <module name="gateway" options="-parameters" />
       <module name="organizacoes" options="-parameters" />
+      <module name="usuarioms" options="-parameters" />
     </option>
   </component>
 </project>
