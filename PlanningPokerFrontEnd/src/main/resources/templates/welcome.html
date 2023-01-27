@@ -1,29 +1,97 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-br" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Welcome!</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    <title>Welcome to ScrumPlanner!</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
+            crossorigin="anonymous"></script>
 </head>
 <body>
-<nav class="navbar bg-primary" data-bs-theme="dark">
+<nav class="navbar sticky-top bg-primary" data-bs-theme="dark">
     <div class="container-fluid">
         <a class="navbar-brand" href="#">
-            <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-suit-club-fill" viewBox="0 0 16 16">
-                <path d="M11.5 12.5a3.493 3.493 0 0 1-2.684-1.254 19.92 19.92 0 0 0 1.582 2.907c.231.35-.02.847-.438.847H6.04c-.419 0-.67-.497-.438-.847a19.919 19.919 0 0 0 1.582-2.907 3.5 3.5 0 1 1-2.538-5.743 3.5 3.5 0 1 1 6.708 0A3.5 3.5 0 1 1 11.5 12.5z"/>
-            </svg>
-            Planning Poker
+            <img alt="club" src="playing-cards.png" height="25"/>
+            ScrumPlanner
         </a>
         <form>
-            <a class="btn btn-sm btn-outline-light me-2" type="button" href="usuarios/login">Login</a>
-            <a class="btn btn-sm btn-outline-light" type="button" href="usuarios/cadastro">Cadastre-se</a>
+            <a class="btn btn-sm btn-outline-light me-2" type="button" href="login">Login</a>
         </form>
     </div>
 </nav>
 <div class="container mt-3">
-    <h3>Bem vindos ao Planning Poker</h3>
+    <br>
+    <div class="card text-bg-light">
+        <img class="card-img" alt="background"src="backgroung.png" height="350"/>
+        <div class="card-img-overlay">
+            <br><br><br>
+            <h5 class="card-title">Bem vindos ao ScrumPlanner</h5>
+            <p class="card-text">O ScrumPlanner é o aplicativo perfeito para gerenciar suas estimativas de projetos
+                ágeis. Com ele, você pode facilmente planejar e estimar tarefas com sua equipe usando o método
+                Planning Poker. Além disso, o ScrumPlanner também oferece recursos como o gerenciamento de backlogs
+                e salvamento das partidas. Com interface intuitiva e design moderno, ele é a escolha ideal para equipes
+                que buscam melhorar sua eficiência e precisão nas estimativas. Experimente o ScrumPlanner agora e veja
+                a diferença em seus projetos!</p>
+            <br>
+            <a href="cadastro" class="btn btn-primary">Cadastre-se</a>
+        </div>
+    </div>
+    <br>
+    <div class="row align-items-center mt-3">
+        <div class="col-8">A estimativa de projetos é uma etapa crítica na gestão de projetos ágeis, pois permite que a equipe de desenvolvimento planeje e organize o trabalho de forma mais eficiente. Uma das técnicas mais populares para estimativa ágil é o Planning Poker, que é baseado em consenso e usa cartões com pontuações para ajudar a equipe a chegar a uma estimativa precisa.</div>
+        <div class="col-4">
+            <img src="meeting.png" alt="meeting" height="260">
+        </div>
+    </div>
+    <div class="row align-items-center mt-3">
+        <div class="col-4">
+            <img src="umaopiniao.png" alt="meeting" height="260">
+        </div>
+        <div class="col-8">Uma das principais vantagens do Planning Poker é que ele ajuda a evitar a pressão de grupo, onde alguns membros da equipe podem sentir-se pressionados a seguir a opinião dos outros. Com o Planning Poker, cada membro do time tem a oportunidade de expressar sua opinião de forma anônima antes de discutir e chegar a um consenso.</div>
+    </div>
+    <div class="row align-items-center mt-3">
+        <div class="col-8">Além disso, o Planning Poker também ajuda a promover a comunicação e colaboração entre os membros da equipe. Ao discutir e debater as histórias de usuário, os membros do time podem compartilhar suas perspectivas e experiências, o que pode ajudar a identificar possíveis problemas ou complicações.</div>
+        <div class="col-4">
+            <img src="todosfalam.png" alt="meeting" height="330">
+        </div>
+    </div>
+    <div class="row align-items-center mt-3">
+        <div class="col-4">
+            <img src="trabalho.png" alt="meeting" height="190">
+        </div>
+        <div class="col-8">Outra vantagem é que o Planning Poker incentiva a equipe a se concentrar no trabalho em si, e não nas horas trabalhadas. Isso ajuda a evitar estimativas erradas e aumenta a precisão das estimativas.</div>
+    </div>
+    <div class="row align-items-center mt-3">
+        <div class="col-8">Em resumo, o Planning Poker é uma técnica eficaz para estimativa ágil de projetos, pois ajuda a evitar pressão de grupo, promove comunicação e colaboração entre os membros da equipe e incentiva a equipe a se concentrar no trabalho em si. Além disso, ele aumenta a precisão das estimativas e ajuda a equipe a se planejar e organizar o trabalho de forma mais eficiente.</div>
+        <div class="col-4">
+            <img src="conclusao.png" alt="meeting" height="260">
+        </div>
+    </div>
+    <br><br>
+    <div>
+        <p align="center">Experimente o ScrumPlanner agora e melhore suas estimativas de projetos ágeis com sua equipe. <a href="cadastro">Cadastre-se já</a></p>
+    </div>
+    <div class="container text-center">
+        <div class="row align-items-start">
+            <div class="col"></div>
+            <div class="col">
+                <form action="https://www.paypal.com/donate" method="post" target="_top">
+                    <input type="hidden" name="business" value="52RUVLP99DR72" />
+                    <input type="hidden" name="no_recurring" value="0" />
+                    <input type="hidden" name="item_name" value="Ajude a manter este projeto, o Scrum Planner é gratuito e dependemos de doações para mantermos a infraestrutura do projeto." />
+                    <input type="hidden" name="currency_code" value="BRL" />
+                    <input type="image"  src="https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Faça doações com o botão do PayPal" />
+                    <img alt="" border="0" src="https://www.paypal.com/pt_BR/i/scr/pixel.gif" width="1" height="1" />
+                </form>
+            </div>
+            <div class="col"></div>
+        </div>
+    </div>
+
+
 </div>
 </body>
 </html>

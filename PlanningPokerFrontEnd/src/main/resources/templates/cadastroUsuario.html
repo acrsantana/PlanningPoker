@@ -1,10 +1,53 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br" xmlns="http://www.w3.org/1999/html">
 <head>
-    <meta charset="UTF-8">
-    <title>Cadastro de Usuarios</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Cadastro de usuários - ScrumPlanner!</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
+            crossorigin="anonymous"></script>
 </head>
 <body>
-<h3>Cadastro de usuários</h3>
+<nav class="navbar sticky-top bg-primary" data-bs-theme="dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="/planningpoker">
+            <img alt="club" src="playing-cards.png" height="25"/>
+            ScrumPlanner
+        </a>
+    </div>
+</nav>
+<div class="container">
+
+    <div class="card mt-5">
+
+        <div class="card-header text-bg-primary">
+            Cadastro - digite seus dados
+        </div>
+        <img class="card-img" alt="background"src="backgroung.png" height="315"/>
+        <div class="card-img-overlay">
+            <div class="card-body">
+                <form class="mt-5" method="post" action="cadastro">
+                    <div class="mb-3">
+                        <label for="nome" class="form-label">Seu nome</label>
+                        <input type="text" class="form-control" id="nome" name="nome">
+                    </div>
+                    <div class="mb-3">
+                        <label for="email" class="form-label">Seu melhor endereço de e-mail</label>
+                        <input type="email" class="form-control" id="email" name="email" aria-describedby="emailHelp">
+                        <div id="emailHelp" class="form-text">Sua senha será gerada automaticamente e enviada para seu
+                            e-mail. Jamais compartilharemos o seu e-mail com ninguém.
+                        </div>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary">Cadastro</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+</div>
 </body>
 </html>
