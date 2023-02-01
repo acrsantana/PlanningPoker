@@ -21,7 +21,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="arquivoms" target="18" />
-      <module name="cartas" target="18" />
+      <module name="cartas" target="19" />
       <module name="config" target="18" />
       <module name="Deck MS" target="18" />
       <module name="decks" target="18" />
